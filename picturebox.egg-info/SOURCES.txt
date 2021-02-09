@@ -1,0 +1,7 @@
+setup.py
+picturebox.egg-info/PKG-INFO
+picturebox.egg-info/SOURCES.txt
+picturebox.egg-info/dependency_links.txt
+picturebox.egg-info/entry_points.txt
+picturebox.egg-info/requires.txt
+picturebox.egg-info/top_level.txt
