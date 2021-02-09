@@ -12,8 +12,8 @@ class MainWindow(QMainWindow):
         self.slideshow = None
         self.settings = None
 
-        self.ui = Ui_MainWindow()
-        self.ui.setupUi(self)
+        ui = Ui_MainWindow()
+        ui.setupUi(self)
 
         self.init_window()
 
