@@ -1,3 +1,0 @@
-[console_scripts]
-picturebox = picturebox:main
-
